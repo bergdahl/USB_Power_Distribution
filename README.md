@@ -4,7 +4,7 @@ Autodesk Eagle files for a simple USB power distribution board.
 Also included is Fusion 360 file containing a simple enclosure for 3D printing.
 
 
-#License 
+# License 
 
 Copyright (c) 2020, Bergdahl IT AB. All rights reserved.
 
